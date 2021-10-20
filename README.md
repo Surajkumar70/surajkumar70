@@ -5,7 +5,7 @@ Hello, I'm Suraj kumar
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 </h1>
 
-<img align='right' src="hhttps://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogrammer-gifs&psig=AOvVaw20mfGJIRhO3xFr-BGmXK6x&ust=1634795754429000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDkn_am2PMCFQAAAAAdAAAAABAW" width="100">
+<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100">
 
 ## 👨🏾‍💻 ABOUT ME
 
