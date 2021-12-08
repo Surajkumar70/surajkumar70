@@ -37,9 +37,7 @@ Hello, I'm Suraj kumar
 
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=Netlify%20AWS&logoColor=FFFFFF)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku%20AWS&logoColor=FFFFFF)
-<!--  --> -->
- --> -->
- 
+<!--  -->
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 
