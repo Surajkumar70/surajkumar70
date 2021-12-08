@@ -37,10 +37,10 @@ Hello, I'm Suraj kumar
 
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=Netlify%20AWS&logoColor=FFFFFF)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku%20AWS&logoColor=FFFFFF)
+<!--  --> -->
  --> -->
- -->
  
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 
 <p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=vishalmajumdar95&label=Profile%20views&color=0e75b6&style=flat" alt="surajkumar70" /> </p>
