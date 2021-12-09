@@ -99,11 +99,11 @@ Hello, I'm Suraj kumar
     <td align="center" width="96">
       <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png" width="40"/> -->
-      </a>
+<!--       </a> -->
 <!--       <br>Mongodb
     </td>
     <td align="center" width="96">
-      <a> -->
+<!--       <a> --> -->
 <!--         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/> -->
 <!--       </a> -->
       <br>HTML
