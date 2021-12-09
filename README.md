@@ -125,7 +125,7 @@ Hello, I'm Suraj kumar
      </a>
       <br>Bootstrap
     </td> 
-      <td align="center" width="96">
+<!--       <td align="center" width="96"> -->
 <!--       <a> -->
 <!--         <img src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg" width="40"/>
       </a>
