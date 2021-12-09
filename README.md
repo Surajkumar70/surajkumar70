@@ -109,7 +109,7 @@ Hello, I'm Suraj kumar
       <br>HTML
     </td>
     <td align="center" width="96">
-166
+<!-- 166 -->
 <br> -->
       <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
