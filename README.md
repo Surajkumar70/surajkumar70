@@ -115,7 +115,7 @@ Hello, I'm Suraj kumar
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
       </a>
       <br>CSS
-    </td>
+<!--     </td> -->
 <!--     <td align="center" width="96">
       <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
