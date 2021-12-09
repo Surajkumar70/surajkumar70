@@ -110,8 +110,8 @@ Hello, I'm Suraj kumar
     </td>
     <td align="center" width="96">
 <!-- 166 -->
-<br> -->
-      <a>
+<!-- <br> --> -->
+<!--       <a> -->
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
       </a>
       <br>CSS
