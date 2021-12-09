@@ -165,7 +165,7 @@ Hello, I'm Suraj kumar
 <br> -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- -->
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Let's Connect ....***
 <p align="center">
 	<a href="https://www.facebook.com/SurajKumar.0014"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
