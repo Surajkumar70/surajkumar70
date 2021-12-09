@@ -85,26 +85,26 @@ Hello, I'm Suraj kumar
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
+<!--         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
       </a>
       <br>NodeJS
     </td>
     <td align="center" width="96">
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"/>
+      <a> -->
+<!--         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"/>
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png" width="40"/>
+      <a> -->
+<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png" width="40"/>
       </a>
-      <br>Mongodb
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
-      </a>
+      <br>Mongodb -->
+<!--     </td> -->
+<!--     <td align="center" width="96">
+      <a> -->
+<!--         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+      </a> -->
       <br>HTML
     </td>
     <td align="center" width="96">
