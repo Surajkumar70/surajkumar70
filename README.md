@@ -105,7 +105,7 @@ Hello, I'm Suraj kumar
     <td align="center" width="96">
       <a> -->
 <!--         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/> -->
-      </a>
+<!--       </a> -->
       <br>HTML
     </td>
     <td align="center" width="96">
