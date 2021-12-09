@@ -93,7 +93,7 @@ Hello, I'm Suraj kumar
     <td align="center" width="96">
       <a>
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"/> -->
-      </a>
+<!--       </a> -->
 <!--       <br>MySQL
     </td>
     <td align="center" width="96">
