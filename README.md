@@ -140,7 +140,7 @@ Hello, I'm Suraj kumar
       </a>
       <br>Heroku
     </td> -->
-  </tr>
+<!--   </tr> -->
 </table>
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -174,4 +174,4 @@ Hello, I'm Suraj kumar
 	<a href="https://www.linkedin.com/in/suraj-kumar-488648216/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/surajkumar.1414/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 <!-- 	<a href="https://twitter.com/anandpatel504"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a> -->
-</p>
+<!-- </p> -->
