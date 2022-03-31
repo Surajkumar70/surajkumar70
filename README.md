@@ -73,13 +73,13 @@ Hello, I'm Suraj kumar
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
+        <img src="https://cdn.icon-icons.com/icons2/1508/PNG/128/python_104451.png" width="40"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="40"/>
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_js_official_icon_130509.png" width="40"/>
       </a>
       <br>Javascript
     </td>
@@ -103,25 +103,25 @@ Hello, I'm Suraj kumar
 <!--     </td> -->
 <!--     <td align="center" width="96">
       <a> -->
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" width="40"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" width="40"/>
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" width="40"/>
       </a>
       <br>React
     </td> 
     <td align="center" width="96">
      <a>
-      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_wordmark_logo_icon_146620.png" width="40"/>
+      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" width="40"/>
      </a>
       <br>Bootstrap
     </td> 
