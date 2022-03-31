@@ -121,7 +121,7 @@ Hello, I'm Suraj kumar
     </td> 
     <td align="center" width="96">
      <a>
-      <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
+      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_wordmark_logo_icon_146620.png" width="40"/>
      </a>
       <br>Bootstrap
     </td> 
