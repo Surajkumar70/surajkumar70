@@ -46,14 +46,6 @@
     </td>
     <td align="center" width="96">
       <a>
-	<td align="center" width="96">
-      <a>
-        <img src="[https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png)" width="40"/>
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">Postgresql 
-      <a>
 <!--         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"/>
       </a>
       <br>MySQL
