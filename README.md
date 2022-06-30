@@ -17,7 +17,9 @@
 
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Things I Know ....***
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Things I Know ....*** -->
+<!-- yeh bhi ahi  -->
+
 > <i>Tools, languages, and other things that I like to work with.</i>
 <br>
 <table>
