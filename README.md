@@ -80,25 +80,38 @@
      </a>
       <br>Bootstrap
     </td> 
-<!--       <td align="center" width="96"> -->
-<!--       <a> -->
-<!--         <img src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg" width="40"/>
+<!-- 	  fffffffffffffffff -->
+      <td align="center" width="96">
+      <a>
+        <img src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg" width="40"/>
       </a>
       <br>AWS
-    </td> --> 
-<!--     <td align="center" width="96">
+    </td> 
+    <td align="center" width="96">
       <a>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/>
       </a>
       <br>Heroku
-    </td> -->
+    </td>
+	  
+<!-- 	  fffffffffffffffffffffffff -->
   </tr>
 </table>
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+
+
+
+
+
+
+
+
+
+
 <!-- ddfdsfdsfdfdfdf -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***LIVE PROJECTS ....***
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***LIVE PROJECTS ....***
 ><i>Click on ICON to preview.</i>
 <br>
 <table>
@@ -117,7 +130,7 @@
 	</td>
   </tr>
 </table>
-<br>
+<br> -->
 
 <!-- fdsfdfdsfdfdfdfdf -->
 
