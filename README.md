@@ -83,9 +83,9 @@
 <!-- 	  fffffffffffffffff -->
       <td align="center" width="96">
       <a>
-        <img src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg" width="40"/>
+        <img src="[https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg](https://www.postgresqltutorial.com/wp-content/uploads/2021/04/postgresql-tutorial-homepage.svg)" width="40"/>
       </a>
-      <br>AWS
+      <br>PostgreSQL
     </td> 
     <td align="center" width="96">
       <a>
