@@ -95,7 +95,7 @@
     </td>
 	  <td align="center" width="96">
       <a>
-        <img src="https://website-v9.vercel.app/logo-dark.svg" width="40"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNIwEh05lSPC6d6XdM5_EPwWwqRs9zevwcjA&usqp=CAU" width="40"/>
       </a>
       <br>Prisma
     </td>
