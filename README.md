@@ -93,8 +93,15 @@
       </a>
       <br>Heroku
     </td>
+	  <td align="center" width="96">
+      <a>
+        <img src="https://website-v9.vercel.app/logo-dark.svg" width="40"/>
+      </a>
+      <br>Prisma
+    </td>
 	  
 <!-- 	  fffffffffffffffffffffffff -->
+	  
   </tr>
 </table>
 <br>
